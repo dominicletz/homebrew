@@ -1,14 +1,10 @@
-# Homebrew Core
+# Homebrew Extra
 
-Core formulae for the Homebrew package manager.
-
-Core formulae for the Linuxbrew package manager (Homebrew on Linux or Windows 10 Subsystem for Linux) are in [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core).
-
-[![Join us on https://discourse.brew.sh](https://img.shields.io/badge/Discourse-forum-blue.svg)](https://discourse.brew.sh)
+Extra formulaes that I need for the Homebrew package manager.
 
 ## How do I install these formulae?
 
-Just `brew install <formula>`. This is the default tap for Homebrew and is installed by default.
+Just `brew tap dominicletz/homebrew-extra`. 
 
 ## More Documentation, Troubleshooting, Contributing, Security, Community, Donations, License and Sponsors
 
